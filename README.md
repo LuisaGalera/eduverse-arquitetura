@@ -51,6 +51,4 @@ C4Container
 
 *   [SAD - Fase 4](./docs/sad/sad-fase4.md)
 
-## Como Executar o Projeto Localmente
 
-[Instruções detalhadas sobre como configurar e executar o projeto localmente serão adicionadas aqui.]
